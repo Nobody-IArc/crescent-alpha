@@ -1,11 +1,12 @@
 # Crescent
+![crescent_icon.png](frontend/public/crescent_icon.png)
+
 ###### B2B Team Management Tool Project by Nobody
 
 ## 프로젝트 진행 내역 (MVP 구조 완성 시 해당 탭 하단으로 이동)
 |  날짜   |      내역      |          설명          | 비고 |
 |:-----:|:------------:|:--------------------:|:--:|
 | 06.22 | 프로젝트 생성 및 설정 | Nest.js & Next.js 사용 ||
-
 ---
 ## 프로젝트 개요
 
