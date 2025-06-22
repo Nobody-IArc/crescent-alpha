@@ -1,0 +1,11 @@
+{
+  "name": "Crescent",
+  "packageManager": "yarn@4.9.2",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "devDependencies": {
+    "nest-cli": "^0.0.5"
+  }
+}
